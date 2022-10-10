@@ -13,3 +13,8 @@ Visual Studio:
 GitBash:
 ![image](https://user-images.githubusercontent.com/100882800/194829703-5c9d8018-11a7-4936-82c2-dc94fae0eb31.png)
 
+
+Resultados:
+
+![WhatsApp Image 2022-10-10 at 3 57 19 AM](https://user-images.githubusercontent.com/100882800/194830853-19e1dd99-35ba-49e6-880e-4b3811297fc2.jpeg)
+

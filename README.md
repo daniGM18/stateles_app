@@ -20,12 +20,12 @@ RESULTADOS:
 ![WhatsApp Image 2022-10-10 at 3 57 19 AM](https://user-images.githubusercontent.com/100882800/194830853-19e1dd99-35ba-49e6-880e-4b3811297fc2.jpeg)
 
 
-DATOS DEL ESTUDIANTE:
-Nombre: Daniel Gutierrez Melendez
-Area: Desarrollo de Sofware Multiplataforma
-Carrera: ing.en Desarrollo y Gestion de Software
-Materia: Aplicaciones Web Progresivas
-Matricula:190720
-Maestro: M.T.I. Marco Antonio Ramirez Hernandez
-Periodo: Septiembre-Diciembre del 2022
+-DATOS DEL ESTUDIANTE:
+-Nombre: Daniel Gutierrez Melendez
+-Area: Desarrollo de Sofware Multiplataforma
+-Carrera: ing.en Desarrollo y Gestion de Software
+-Materia: Aplicaciones Web Progresivas
+-Matricula:190720
+-Maestro: M.T.I. Marco Antonio Ramirez Hernandez
+-Periodo: Septiembre-Diciembre del 2022
 

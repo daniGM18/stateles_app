@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         // backgroundColor: Color.fromARGB(255, 255, 251, 3),
         appBar: AppBar(
           title: const Text(
-              "Aplicación Stateless: Adolfo melendez Rodriguez ||  190928"),
+              "Aplicación Stateless: Daniel Gutierrez Melendez ||  190720"),
           centerTitle: true,
           flexibleSpace: Container(
             decoration: const BoxDecoration(

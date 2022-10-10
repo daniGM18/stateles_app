@@ -5,12 +5,15 @@ OBJETIVO DE LA PRACTICA: Que el alumno practique y observé cada una de las func
 HERRAMIENTAS UTILIZADAS:
 
 Flutter:
+
 ![image](https://user-images.githubusercontent.com/100882800/194829309-e413cf89-117b-4b05-a3ea-47744a6fcc3d.png)
 
 Visual Studio:
+
 ![image](https://user-images.githubusercontent.com/100882800/194829543-1829f567-832f-423f-8028-492697c60633.png)
 
 GitBash:
+
 ![image](https://user-images.githubusercontent.com/100882800/194829703-5c9d8018-11a7-4936-82c2-dc94fae0eb31.png)
 
 
@@ -18,6 +21,7 @@ GitBash:
 RESULTADOS:
 
 ![WhatsApp Image 2022-10-10 at 3 57 19 AM](https://user-images.githubusercontent.com/100882800/194830853-19e1dd99-35ba-49e6-880e-4b3811297fc2.jpeg)
+
 
 
 -DATOS DEL ESTUDIANTE:
